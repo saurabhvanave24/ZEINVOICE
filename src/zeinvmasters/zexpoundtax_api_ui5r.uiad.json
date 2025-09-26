@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "ExpoundTax APIs",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "ExpoundTax APIs"
+  },
+  "ui5AppDetails": {
+    "appId": "zexpoundtaxapi"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_DA27CB967A869C3EE01D967AB3C44E5248B31A46_TM",
+    "semanticObject": "zexpoundtax_api",
+    "action": "Maintain",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_DA27CB967A869C3EE01D967AB3C44E5248B31A46_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "ExpoundTax APIs"
+      }
+    }
+  ]
+}

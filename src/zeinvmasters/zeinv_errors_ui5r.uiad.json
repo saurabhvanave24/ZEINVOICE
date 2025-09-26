@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "E-Invoicing: Errors",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "E-Invoicing: Errors"
+  },
+  "ui5AppDetails": {
+    "appId": "zeinverrors"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_714A490FD0DF60218133366637ADDE163FBF7EB8_TM",
+    "semanticObject": "zeinv_errors",
+    "action": "Maintain",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_714A490FD0DF60218133366637ADDE163FBF7EB8_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "E-Invoicing: Errors"
+      }
+    }
+  ]
+}

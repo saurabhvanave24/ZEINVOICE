@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "E-Invoicing: Basic Rate Condition types",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "E-Invoicing: Basic Rate Condition types"
+  },
+  "ui5AppDetails": {
+    "appId": "zeinvconditiontype"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_CED85C7A0D1269C2597BD53CF0DF217028C57005_TM",
+    "semanticObject": "zeinv_conditiontype",
+    "action": "Maintain",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_CED85C7A0D1269C2597BD53CF0DF217028C57005_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "E-Invoicing: Basic Rate Condition types"
+      }
+    }
+  ]
+}

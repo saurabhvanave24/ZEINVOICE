@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "E-Invoicing State Codes",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "E-Invoicing State Codes"
+  },
+  "ui5AppDetails": {
+    "appId": "zeinvstatecodes"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_3ECDB6AAA92C8556945A8C6EE873996E90F30D9F_TM",
+    "semanticObject": "zeinv_statecodes",
+    "action": "Miantain",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_3ECDB6AAA92C8556945A8C6EE873996E90F30D9F_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "E-Invoicing State Codes"
+      }
+    }
+  ]
+}

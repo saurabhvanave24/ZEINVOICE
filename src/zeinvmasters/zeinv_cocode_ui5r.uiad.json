@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "E-Invoicing: Company Code",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "E-Invoicing: Company Code"
+  },
+  "ui5AppDetails": {
+    "appId": "zeinvcocode"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_1ADF4BECF3A23207ACF886B29769947F2BA1C604_TM",
+    "semanticObject": "zeinv_cocode",
+    "action": "Maintain",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_1ADF4BECF3A23207ACF886B29769947F2BA1C604_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "E-Invoicing: Company Code"
+      }
+    }
+  ]
+}

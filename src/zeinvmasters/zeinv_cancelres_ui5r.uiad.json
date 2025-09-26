@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "E-Invoice: Cancellation Reason",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "E-Invoice: Cancellation Reason"
+  },
+  "ui5AppDetails": {
+    "appId": "zeinvcancelres"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_B5689B64E35AFC837D116C124417E369E068E923_TM",
+    "semanticObject": "zeinv_cancelres",
+    "action": "Maintain",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_B5689B64E35AFC837D116C124417E369E068E923_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "E-Invoice: Cancellation Reason"
+      }
+    }
+  ]
+}

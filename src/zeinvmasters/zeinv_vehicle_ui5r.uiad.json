@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Vehicle Type",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Vehicle Type"
+  },
+  "ui5AppDetails": {
+    "appId": "zeinvvehicletype"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_59BDEA3613CA2007023601EDF51A1DE3F134BB1D_TM",
+    "semanticObject": "zeinv_vehicletype",
+    "action": "Maintain",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_59BDEA3613CA2007023601EDF51A1DE3F134BB1D_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Vehicle Type"
+      }
+    }
+  ]
+}

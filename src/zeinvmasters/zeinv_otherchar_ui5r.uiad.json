@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "E-Invoicing Other Charges Condition type",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "E-Invoicing Other Charges Condition type"
+  },
+  "ui5AppDetails": {
+    "appId": "zeinvothercharg"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_D8E8384EF486A54A3FA6371AFD809A902E6CF33A_TM",
+    "semanticObject": "zeinv_othercharg",
+    "action": "Maintain",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_D8E8384EF486A54A3FA6371AFD809A902E6CF33A_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "E-Invoicing Other Charges Condition type"
+      }
+    }
+  ]
+}

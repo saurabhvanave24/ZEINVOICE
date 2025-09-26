@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "E-Invoicing: GST Rate Condition types",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "E-Invoicing: GST Rate Condition types"
+  },
+  "ui5AppDetails": {
+    "appId": "zeinvgstrate"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_17D4091E38A38F4E20ACC890D82FC9EA1EF5E149_TM",
+    "semanticObject": "zeinv_gstrate",
+    "action": "Maintain",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_17D4091E38A38F4E20ACC890D82FC9EA1EF5E149_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "E-Invoicing: GST Rate Condition types"
+      }
+    }
+  ]
+}

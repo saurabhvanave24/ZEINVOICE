@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "E-Invoicing: Unit of Measure",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "E-Invoicing: Unit of Measure"
+  },
+  "ui5AppDetails": {
+    "appId": "zeinvmeins"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_C12F3676AB17B3601C0828FDE84A700E8E66F3D9_TM",
+    "semanticObject": "zeinv_meins",
+    "action": "Maintain",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_C12F3676AB17B3601C0828FDE84A700E8E66F3D9_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "E-Invoicing: Unit of Measure"
+      }
+    }
+  ]
+}

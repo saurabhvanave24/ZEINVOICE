@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "E-invoice Master API",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "E-invoice Master API"
+  },
+  "ui5AppDetails": {
+    "appId": "zapimaster"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_9FC0A0CC52790AD66F49249C6B2F19044B1B4C1D_TM",
+    "semanticObject": "ZAPIMSATER",
+    "action": "Maintain",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_9FC0A0CC52790AD66F49249C6B2F19044B1B4C1D_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "E-invoice Master API"
+      }
+    }
+  ]
+}

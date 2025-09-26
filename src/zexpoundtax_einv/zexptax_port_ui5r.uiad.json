@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Port Details",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Port Details"
+  },
+  "ui5AppDetails": {
+    "appId": "zexptaxport"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_3C5DD020BAAAAD7BF65B672DFEFFD4B93A222DE5_TM",
+    "semanticObject": "zso_exptax_port",
+    "action": "Create",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_3C5DD020BAAAAD7BF65B672DFEFFD4B93A222DE5_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Port Details"
+      }
+    }
+  ]
+}
